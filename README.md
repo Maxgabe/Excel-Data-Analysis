@@ -1,68 +1,77 @@
 # Excel-Data-Analysis
 
 ## **Overview**
-This repository is dedicated to showcasing beginner-level data analysis projects performed using Microsoft Excel. These projects serve as a stepping stone in my journey to develop technical skills in data analysis.
 
-The focus is on applying foundational techniques like data cleaning, organizing datasets, analyzing trends, and creating visualizations to derive insights from data.
+This repository showcases beginner-level data analysis projects using Microsoft Excel. These projects demonstrate my growth in technical data analysis skills through hands-on practice.
 
-My goal is to demonstrate my progress, learn through hands-on practice, and showcase practical examples of how Excel can be utilized for data analysis.
+The focus is on applying foundational techniques like data cleaning, organizing datasets, analyzing trends, and creating pivot tables to derive actionable insights.
+
+My goal is to demonstrate my progress, learn through experience, and showcase practical examples of Excel's capabilities in data analysis.
 
 ---
 
 ## **Projects**
 
-### **1. Sales Performance Analysis**
+###  **Project: <ins> Walmart Dataset Analysis** </ins>
+
 **Description:**  
-Analyze sales data to identify trends, top-performing products, and regional revenue insights.
+
+Analyzed a Walmart sales dataset sourced from Kaggle. Although the dataset was originally clean, I intentionally introduced errors to practice data cleaning skills. The project focuses on answering specific business questions related to customer behavior.
 
 **Project Workflow:**
+
 1.  <ins> **Understand and Organize the Dataset:** </ins>
-- Categorize and structure columns for clarity and relevance.
-- Identify the scope and purpose of the dataset.
+
+- Structured columns for clarity and relevance.
+  
+- Identified the dataset's purpose based on business questions.
+  
 2. <ins> **Data Cleaning:** </ins>
-- Address duplicates, inconsistencies, and incorrect formats to ensure data accuracy.
-3. <ins> **Analyze Trends:** </ins>
+
+- Addressed duplicates, inconsistencies, and incorrect formats.
+  
+- Standardized values, corrected typos, formatted dates, and handled missing data.
+  
+3. <ins> **Pivot Tables and Insights:** </ins>
 - Investigate performance by regions and products.
 - Explore key metrics to identify actionable insights.
+- Created pivot tables answering business questions related to Customer Insights:
+   
+   * What is the average age and income of customers by loyalty level?
+   
+   * Which customer loyalty group spends the most?
+   
+   * How do payment methods vary among customer demographics?
+- Applied the Scalper Method to generate concise, actionable insights.
+
 4. <ins> **Basic Visualizations:** </ins>
 - Create pivot tables and charts to visualize findings.
 5. <ins> **Summarize Key Insights:** </ins>
 - Highlight key takeaways and actionable recommendations.
 
+---
 
+<ins> **Complete status:** </ins>  Data cleaning and Customer Insights pivot tables.
 
-**Folder Structure:**
-- `Sales_Performance_Analysis_Project/`
-  - `raw_data/`: Raw sales datasets.
-  - `cleaned_data/`: Cleaned datasets prepared for analysis.
-  - `reports/`: Final visualizations and dashboards.
-  - `README.md`: Project details and key takeaways.
+---
+<ins> **Next Steps:** </ins>    I will expand this project to include:
 
-**Status:** Currently in progress.
+**Sales and Revenue Analysis:**
+
+- What is the total revenue generated?
+- Which products or categories contribute the most revenue?
+- How do sales vary across different store locations?
+- Demand and Forecasting insights.
 
 ---
 
-### **2. Future Projects (Planned)**  
-**Description:**  
-After completing the Sales Performance Analysis, I plan to expand my skills by working on additional projects, gradually incorporating tools like Power BI and SQL into my workflow.
-
-<ins>_Example Project Idea:_ </ins>
-
-**Employee Performance Insights:** A project focused on analyzing HR data to explore workforce trends and create actionable insights for retention and hiring strategies.
-
-<ins> Objective:</ins>   Analyze workforce data to uncover trends in performance, retention, and hiring strategies.
-
-<ins> Workflow:</ins>   Data cleaning, trend analysis, and visualization through dashboards.
-
-
-  **Folder Structure:**
- - `Employee_Performance_Analysis_Project/`
-   - `raw_data/`: Raw HR datasets.
-   - `cleaned_data/`: Cleaned and processed datasets.
-   - `reports/`: Dashboards and visualizations.
-   - `README.md`: Details about this specific project.
-
-**Status:** Planned, to be developed after the Sales Performance Analysis project.
+**Folder Structure:**
+- `Walmart_Data_Analysis/`
+  - `raw_data/`:  Original Kaggle dataset (clean)
+  - `dirtied_data/`: Modified dataset with introduced errors for practice
+  - `cleaned_data/`: Cleaned dataset after applying data cleaning techniques
+  - `pivot_tables`: Excel file containing pivot tables and insights (Customer Insights)
+  - `README.md`: Project details and key takeaways
 
 ---
 
@@ -72,17 +81,16 @@ Microsoft Excel is my starting point because of its:
 1. **Accessibility:** Widely used across industries and available to most professionals.
 2. **Versatility:** Offers tools like pivot tables, formulas, and visualization capabilities that are critical for basic data analysis.
 3. **Simplicity:** An ideal platform for beginners to learn fundamental data analysis techniques.
-4. **Powerful Features:** Includes pivot tables, conditional formatting, formulas, and visualization capabilities.
+4. **Powerful Features:** Includes pivot tables, conditional formatting and robust functions.
+
 
 ---
 ## **Tools Used**
 **Microsoft Excel:**
 - Data cleaning and preparation.
 - Basic formulas and functions for analysis.
-- Pivot tables and charts for visualization.
-- Dashboards for presenting insights.
-
-
+- Pivot tables for deriving insights.
+- Visualizations to present findings.
 
 
 ## **About**
@@ -93,10 +101,11 @@ This repository reflects my progress as I transition into the field of data anal
 - Real-world scenarios tackled using foundational tools.
 - A commitment to continuous growth and development in technical skills.
 
+Feel free to explore my projects, share feedback, or offer suggestions for improvement. Your insights are invaluable to my development as a data analyst.
 
-**Feel free to explore my projects, share feedback, or offer suggestions for improvement. Your insights are invaluable to my development as a data analyst.**
 
------------------------
+
+
 
 
 

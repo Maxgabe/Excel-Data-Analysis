@@ -2,11 +2,11 @@
 
 ## **Overview**
 
-This repository showcases beginner-level data analysis projects using Microsoft Excel. These projects demonstrate my growth in technical data analysis skills through hands-on practice.
+This repository showcases beginner-level data analysis projects using **Microsoft Excel** and **Power BI**. These projects demonstrate my growth in technical data analysis skills through hands-on practice.
 
-The focus is on applying foundational techniques like data cleaning, organizing datasets, analyzing trends, and creating pivot tables to derive actionable insights.
+The focus is on applying foundational techniques like data cleaning, organizing datasets, analyzing trends, and creating pivot tables to derive actionable insights. Additionally, I have integrated Power BI visualizations to enhance data storytelling and create interactive dashboards.
 
-My goal is to demonstrate my progress, learn through experience, and showcase practical examples of Excel's capabilities in data analysis.
+My goal is to demonstrate my progress, learn through experience, and showcase practical examples of Excel's and Power BI's capabilities in data analysis.
 
 ---
 
@@ -44,14 +44,36 @@ Analyzed a Walmart sales dataset sourced from Kaggle. Although the dataset was o
    * How do payment methods vary among customer demographics?
 - Applied the Scalper Method to generate concise, actionable insights.
 
-4. <ins> **Basic Visualizations:** </ins>
-- Create pivot tables and charts to visualize findings.
+4. <ins> **Power BI Visualization** </ins>
+
+After completing the Excel analysis, I enhanced my insights by creating an interactive Power BI dashboard.
+
+📊 Power BI Visualizations Created:
+
+* **KPI Card:** Displays Total Customer Spending at a glance.
+
+* **Clustered Column Chart:** Compares Average Income & Age by Loyalty Level.
+
+* **Pie Chart:** Shows the spending distribution across loyalty levels.
+
+* **Stacked Bar Chart:** Visualizes payment methods by customer age & gender.
+
+* **Pie Chart:** Displays the overall payment method distribution.
+
+By incorporating Power BI, I transformed static insights from Excel pivot tables into dynamic, interactive visuals that allow users to explore data trends efficiently.
+
 5. <ins> **Summarize Key Insights:** </ins>
 - Highlight key takeaways and actionable recommendations.
 
 ---
 
-<ins> **Complete status:** </ins>  Data cleaning and Customer Insights pivot tables.
+<ins> **Complete status:** </ins>  
+
+✅ Data Cleaning Completed
+
+✅ Customer Insights Pivot Tables (Excel) Completed
+
+✅ Power BI Dashboard Completed
 
 ---
 <ins> **Next Steps:** </ins>    I will expand this project to include:
@@ -61,7 +83,11 @@ Analyzed a Walmart sales dataset sourced from Kaggle. Although the dataset was o
 - What is the total revenue generated?
 - Which products or categories contribute the most revenue?
 - How do sales vary across different store locations?
-- Demand and Forecasting insights.
+
+**Demand & Forecasting Insights:**
+
+- Predicting trends using historical sales data.
+- Identifying seasonality patterns.
 
 ---
 
@@ -71,8 +97,9 @@ Analyzed a Walmart sales dataset sourced from Kaggle. Although the dataset was o
   - `dirtied_data/`: Modified dataset with introduced errors for practice
   - `cleaned_data/`: Cleaned dataset after applying data cleaning techniques
   - `pivot_tables`: Excel file containing pivot tables and insights (Customer Insights)
+  - `powerbi_dashboard/`: **Customer Insights Dashboard – Power BI** (.pbix) containing interactive visualizations
   - `README.md`: Project details and key takeaways
-
+ 
 ---
 
 ## **Why Excel?**
@@ -83,6 +110,15 @@ Microsoft Excel is my starting point because of its:
 3. **Simplicity:** An ideal platform for beginners to learn fundamental data analysis techniques.
 4. **Powerful Features:** Includes pivot tables, conditional formatting and robust functions.
 
+## **Why Power BI?**
+
+Power BI enhances my analysis by: 
+
+1. Creating interactive dashboards with drill-down capabilities.
+2.  Building custom visuals to enhance analysis.
+
+
+
 
 ---
 ## **Tools Used**
@@ -90,7 +126,12 @@ Microsoft Excel is my starting point because of its:
 - Data cleaning and preparation.
 - Basic formulas and functions for analysis.
 - Pivot tables for deriving insights.
-- Visualizations to present findings.
+
+
+**📊 Microsoft Power BI:**
+- Creating interactive dashboards
+- Building custom visuals to enhance analysis
+- Visualizations to present findings
 
 
 ## **About**
@@ -102,10 +143,6 @@ This repository reflects my progress as I transition into the field of data anal
 - A commitment to continuous growth and development in technical skills.
 
 Feel free to explore my projects, share feedback, or offer suggestions for improvement. Your insights are invaluable to my development as a data analyst.
-
-
-
-
 
 
 
